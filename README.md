@@ -1,4 +1,4 @@
-Solutions for algorithms
+Solution of algorithms
 =======================
 
  https://leetcode.com/problemset/algorithms/
