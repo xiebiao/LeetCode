@@ -6,7 +6,6 @@ package _2;
  */
 public class Solution {
 
-
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode lnode = l1;
         ListNode rnode = l2;
@@ -21,7 +20,7 @@ public class Solution {
             _long = l2;
             _short = l1;
         }
-        //==========
+        //====================
         int carry = 0;
         ListNode r = _long.equals(l1) ? l1 : l2;
         while (_long != null) {

@@ -6,6 +6,10 @@ package _3;
  *          1.当前字符与前面所有字符比较
  *              如果不相同,则temp+1
  *              如果相同,将当前字符的下标记录flag=当前字符下标+1，同时比较longest与temp的大小
+ *              flag
+ *              a            b         c       d
+ *                            >
+ *                            <
  * </pre>
  *
  * @author xiebiao
